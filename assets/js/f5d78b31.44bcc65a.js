@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_241_saurus=self.webpackChunk_241_saurus||[]).push([[8221],{1013:s=>{s.exports=JSON.parse('{"permalink":"/241saurus/blog/tags/popquiz","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

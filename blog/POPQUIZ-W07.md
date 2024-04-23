@@ -11,7 +11,7 @@ Pop Quiz W07 - Blogposting
 The Tale of young ashen-haired and beautiful witch, Elaina.
 
 <!--truncate-->
-A story of young and beautiful ashen-haired witch with bright personality who is always curious about many things. Inspired by her favourite book "The Adventure of Nikke", She embarks on her journey to explore new places and meet different people from around the world and of course, to write her own journey diary.
+Elaina is a young and beautiful ashen-haired witch with bright personality who is always curious about many things. Inspired by her favourite book "The Adventure of Nikke", She embarks on her journey to explore new places and meet different people from around the world and of course, to write her own journey diary.
 
 
 This is simply my favourite laidback-ish adventure anime. The premise is pretty simple, the story takes place as it's like the real world, except there exist magic.
